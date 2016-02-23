@@ -19,3 +19,4 @@ Inspired by [jbranchaud's til project](https://github.com/jbranchaud/til) to jot
 ### Linux
 - [Opened File Descriptors](linux/opened-file-descriptors.md)
 - [Read Command Output Line by Line](linux/read-cmd-output-line-by-line.md)
+- [Conditional Comparison in Bash and Shell](linux/conditional-comparison-bash-shell.md)

@@ -60,7 +60,7 @@ if (( <condition> )) && (( <condition> )); then
 fi
 ```
 
-## Usage code snippets
+## Useful code snippets
 - Single Brackets
   - Integer comparison: `if [ "$foo" -eq 0 ]`
     - Other integer comparison operations: -ne, -gt, -ge, -lt, -le

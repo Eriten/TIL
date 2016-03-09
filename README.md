@@ -10,6 +10,7 @@ Inspired by [jbranchaud's til project](https://github.com/jbranchaud/til) to jot
 ### Categories
 * [Docker](#docker)
 * [Git](#git)
+* [Groovy](#groovy)
 * [Linux](#linux)
 
 ---
@@ -19,6 +20,9 @@ Inspired by [jbranchaud's til project](https://github.com/jbranchaud/til) to jot
 
 ### Git
 - [Orphan Branch](git/orphan-branch.md)
+
+### Groovy
+- [Setting Closure Field](groovy/setting-closure-field.md)
 
 ### Linux
 - [Opened File Descriptors](linux/opened-file-descriptors.md)

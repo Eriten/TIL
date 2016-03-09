@@ -9,12 +9,16 @@ Inspired by [jbranchaud's til project](https://github.com/jbranchaud/til) to jot
 
 ### Categories
 * [Docker](#docker)
+* [Git](#git)
 * [Linux](#linux)
 
 ---
 
 ### Docker
 - [Start Bash Session with a Specific User](docker/start-bash-session-with-specific-user.md)
+
+### Git
+- [Orphan Branch](git/orphan-branch.md)
 
 ### Linux
 - [Opened File Descriptors](linux/opened-file-descriptors.md)

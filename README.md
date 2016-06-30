@@ -29,3 +29,4 @@ Inspired by [jbranchaud's til project](https://github.com/jbranchaud/til) to jot
 - [Read Command Output Line by Line](linux/read-cmd-output-line-by-line.md)
 - [Conditional Comparison in Bash and Shell](linux/conditional-comparison-bash-shell.md)
 - [Subshells](linux/subshells.md)
+- [Working with Disk Space](linux/disk-space.md)
